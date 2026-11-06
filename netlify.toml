@@ -1,0 +1,4 @@
+# Netlify settings: build the site and publish the /out folder.
+[build]
+  command = "npm run build"
+  publish = "out"
