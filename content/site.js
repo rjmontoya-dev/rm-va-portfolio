@@ -143,8 +143,8 @@ export const ABOUT = {
 export const EXPERIENCE = [
   {
     role: 'Virtual Assistant',
-    where: 'Freelance / Remote',
-    dates: 'June 2019 – 2021',
+    where: 'Remote',
+    dates: '',
     duties: [
       { title: 'Executive calendar management', text: 'Managed calendars, scheduled meetings and organized travel for clients.' },
       { title: 'Email and communication', text: 'Handled correspondence, filtered messages and answered inquiries on time.' },
